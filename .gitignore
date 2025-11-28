@@ -1,0 +1,7 @@
+# Ignore temporary files
+*.swp
+*.swo
+*~
+
+# Ignore macOS files
+.DS_Store
